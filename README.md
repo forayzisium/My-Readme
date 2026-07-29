@@ -11,6 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=forayzisium&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
+
 ---
 <table>
 <tr>
@@ -48,6 +49,14 @@
 </td>
 ---
 
+### 🚀 What I'm Working On
+
+- 🌐 Full Stack Web Applications
+- ⚛️ MERN Stack Projects
+- ⛓️ Blockchain & Smart Contracts
+- 🧩 Open Source Contributions
+- 🎨 Building **Aurex**
+
 # 🚀 Tech Stack
 
 <div align="center">
@@ -56,33 +65,6 @@
 
 </div>
 
----
-
-# 🌱 Currently Learning
-
-- ⚛️ MERN Stack
-- 🔥 TypeScript
-- ⛓ Solidity
-- ⚒ Foundry
-- 🌐 Web3
-- 🚀 Open Source
-
----
-
-# 📂 Current Projects
-
-### 🚀 Aurex
-
-Design • Development 
-
-
----
-
-### ⛓ Blockchain Journey
-
-Building smart contracts with Solidity & Foundry.
-
----
 
 ## 🌐 Connect With Me
 <div align="center">
