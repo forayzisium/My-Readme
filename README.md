@@ -47,7 +47,92 @@ const forayzi = {
     motto: "Learn. Build. Improve."
 }
 ```
+
 ---
+</td>
+
+<td width="40%" align="center">
+
+<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=forayzisium&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forayzisium&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=forayzisium&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=forayzisium&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,photoshop,solidity&perline=8"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ MERN Stack
+- 🔥 TypeScript
+- ⛓ Solidity
+- ⚒ Foundry
+- 🌐 Web3
+- 🚀 Open Source
+
+---
+
+# 📂 Current Projects
+
+### 🚀 Aurex
+
+Design • Development • Branding
+
+---
+
+### 💻 Open Source Contributions
+
+Learning Git & GitHub by contributing to public repositories.
+
+---
+
+### ⛓ Blockchain Journey
+
+Building smart contracts with Solidity & Foundry.
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
