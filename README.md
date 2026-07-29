@@ -11,47 +11,43 @@
 <img src="https://komarev.com/ghpvc/?username=forayzisium&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
-
-
 ---
+<table>
+<tr>
 
-```ts
-const forayzi = {
+<td width="65%">
 
-    username: "forayzisium",
+<ul>
 
-    name: "Forayzi Sium",
+<li>👤 <b>Username</b> : <code>forayzisium</code></li>
 
-    role: "Full Stack Developer",
+<li>💻 <b>Role</b> : Full Stack Developer</li>
 
-    location: "Bangladesh 🇧🇩",
+<li>📍 <b>Location</b> : Bangladesh 🇧🇩</li>
 
-    currentlyLearning: [
-        "MERN Stack",
-        "TypeScript",
-        "Solidity",
-        "Foundry",
-        "Web3"
-    ],
+<li>🌱 <b>Learning</b> : MERN • TypeScript • Solidity • Foundry</li>
 
-    currentlyBuilding: "Aurex",
+<li>🚀 <b>Building</b> : Aurex</li>
 
-    interests: [
-        "Open Source",
-        "Backend Development",
-        "Blockchain",
-        "UI Design",
-        "Gaming"
-    ],
+<li>❤️ <b>Interests</b> : Open Source • UI Design • Gaming</li>
 
-    motto: "Learn. Build. Improve."
-}
-```
+<li>⚡ <b>Favorite Stack</b> : MERN + Web3</li>
 
----
+</ul>
+
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="right">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="220"/>
+
+</td>
+
+</tr>
+</table>
+</td>
+
+<td width="40%" align="right">
 
 <img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -59,37 +55,6 @@ const forayzi = {
 
 </tr>
 </table>
-
----
-
-# 📊 Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=forayzisium&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forayzisium&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=forayzisium&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=forayzisium&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
 ---
 
 # 🚀 Tech Stack
@@ -117,13 +82,8 @@ const forayzi = {
 
 ### 🚀 Aurex
 
-Design • Development • Branding
+Design • Development 
 
----
-
-### 💻 Open Source Contributions
-
-Learning Git & GitHub by contributing to public repositories.
 
 ---
 
@@ -133,34 +93,7 @@ Building smart contracts with Solidity & Foundry.
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/forayzisium">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/forayzi_sium2">
-<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:siamforayzi2018@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=discord" height="48"/>
-
-</div>
-
-<br>
-
+## 🌐 Connect With Me
 <div align="center">
 
 📧 **Email:** `siamforayzi2018@gmail.com`
