@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Blockchain Enthusiast • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
 
 <br>
 
@@ -39,22 +39,13 @@
 
 <td width="35%" align="right">
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="220"/>
-
-</td>
-
-</tr>
-</table>
-</td>
-
-<td width="40%" align="right">
-
 <img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </td>
 
 </tr>
 </table>
+</td>
 ---
 
 # 🚀 Tech Stack
