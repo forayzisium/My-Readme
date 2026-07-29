@@ -1,146 +1,87 @@
 <div align="center">
 
-# 👋 Hey, I'm forayzisium
+# 👋 Hi, I'm Forayzi Sium
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Developer;Open+Source+Contributor;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+### Full Stack Developer • Blockchain Enthusiast • Open Source Contributor
 
-![](https://komarev.com/ghpvc/?username=forayzisium&color=blueviolet&style=flat)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=forayzisium&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
+
 
 ---
 
 ```ts
-const sium = {
-    name: "forayzi-sium",
+const forayzi = {
+
+    username: "forayzisium",
+
+    name: "Forayzi Sium",
+
+    role: "Full Stack Developer",
+
     location: "Bangladesh 🇧🇩",
 
     currentlyLearning: [
         "MERN Stack",
-        "Blockchain",
+        "TypeScript",
         "Solidity",
         "Foundry",
-        "TypeScript"
+        "Web3"
     ],
 
     currentlyBuilding: "Aurex",
 
-    hobbies: [
+    interests: [
         "Open Source",
+        "Backend Development",
+        "Blockchain",
         "UI Design",
-        "Gaming",
-        "Gym"
+        "Gaming"
     ],
 
-    favoriteLanguages: [
-        "TypeScript",
-        "JavaScript",
-        "Solidity"
-    ],
-
-    motto: "Learn • Build • Share 🚀"
+    motto: "Learn. Build. Improve."
 }
 ```
-
 ---
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,photoshop,solidity&perline=8" />
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- ⚡ Advanced MERN
-- ⛓ Solidity
-- 🔥 Foundry
-- ⚛ Next.js
-- 📦 TypeScript
-- ☁ Backend Architecture
-
----
-
-# 💼 Currently Working On
-
-🚀 Aurex
-
-Design • Development • Branding
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=forayzisium&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=forayzisium&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forayzisium&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=forayzisium&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=forayzisium&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/forayzisium">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+<a href="https://github.com/forayzisium">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://x.com/forayzi_sium2">
+<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:siamforayzi2018@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=discord" height="48"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **Email:** `siamforayzi2018@gmail.com`
+
+💬 **Discord:** `light_2z`
+
+𝕏 **X:** **@forayzi_sium2**
 
 </div>
